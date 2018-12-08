@@ -1,6 +1,6 @@
 This project was deployed on-
 
-  forgetful-ocean.surge.sh
+ eventsyear.surge.sh
 
 ## Available Scripts
 
