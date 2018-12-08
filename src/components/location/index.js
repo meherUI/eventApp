@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 const Location = () => {
     return ( 
         <div className="location_wrapper">
@@ -6,8 +6,8 @@ const Location = () => {
             width="100%" 
             height="500px" 
             frameBorder="0" 
-            
-            allowFullS creen>
+            title="locationMap"            
+            allowFullScreen>
             </iframe>
             <div className="location_tag">
                 <div>Location</div>

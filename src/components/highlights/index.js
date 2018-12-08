@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Description from './description';
 import Discount from './discount';
 const Highlights = () => {

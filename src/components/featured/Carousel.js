@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Slider from "react-slick";
 import i1 from '../../resources/images/slide_one.jpg';
 import i2 from '../../resources/images/slide_two.jpg';

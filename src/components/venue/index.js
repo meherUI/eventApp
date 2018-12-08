@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Zoom from 'react-reveal/Zoom';
 import icon_calendar from '../../resources/images/icons/calendar.png';
 import icon_location from '../../resources/images/icons/location.png';
